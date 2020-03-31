@@ -1,5 +1,5 @@
 
-# Dicee 🎲
+# Dice 🎲
 
 ##  Goal
 
