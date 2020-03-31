@@ -14,4 +14,4 @@ Build a stateful flutter app
 - setState to mark the widget tree as dirty and requiring update on the next render.
 - Expanded to make widgets adapt to screen dimensions.
 - String interpolation.
-- Dart Code and use gesture controls.
+- Gesture controls.
